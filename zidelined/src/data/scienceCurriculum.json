@@ -1,0 +1,88 @@
+{
+    "levels": {
+      "B4": {
+        "strands": {
+          "Diversity of Matter": [
+            "Living and Non-Living Things",
+            "Materials"
+          ],
+          "Cycles": [
+            "Earth Science",
+            "Life Cycles of organisms"
+          ],
+          "Systems": [
+            "The Human Body Systems",
+            "The Solar System",
+            "Ecosystems"
+          ],
+          "Forces and Energy": [
+            "Sources and Forms of Energy",
+            "Electricity and electronics",
+            "Forces and Movement"
+          ],
+          "Humans and the Environment": [
+            "Personal Hygiene and Sanitation",
+            "Diseases",
+            "Climate Change"
+          ]
+        }
+      },
+      "B5": {
+        "strands": {
+          "Diversity of Matter": [
+            "Living and Non-Living Things",
+            "Materials"
+          ],
+          "Cycles": [
+            "Earth Science",
+            "Life Cycles of organisms"
+          ],
+          "Systems": [
+            "The Human Body Systems",
+            "The Solar System",
+            "Ecosystems"
+          ],
+          "Forces and Energy": [
+            "Sources and Forms of Energy",
+            "Electricity and Electronics",
+            "Forces and Movement"
+          ],
+          "Humans and the Environment": [
+            "Personal Hygiene and Sanitation",
+            "Diseases",
+            "Science and Industry",
+            "Climate Change"
+          ]
+        }
+      },
+      "B6": {
+        "strands": {
+          "Diversity of Matter": [
+            "Living and Non-Living Things",
+            "Materials"
+          ],
+          "Cycles": [
+            "Earth Science",
+            "Life Cycles of organisms"
+          ],
+          "Systems": [
+            "The Human Body Systems",
+            "The Solar System",
+            "Ecosystems"
+          ],
+          "Forces and Energy": [
+            "Sources and Forms of Energy",
+            "Electricity and Electronics",
+            "Forces and Movement"
+          ],
+          "Humans and the Environment": [
+            "Personal Hygiene and Sanitation",
+            "Diseases",
+            "Science and Industry",
+            "Climate Change"
+          ]
+        }
+      }
+    }
+  }
+  
